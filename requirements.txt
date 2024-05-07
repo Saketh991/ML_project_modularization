@@ -1,0 +1,21 @@
+# Data manipulation and analysis
+pandas==2.2            
+numpy           
+
+# Machine Learning library
+scikit-learn    
+# Visualization libraries
+seaborn  == 0.13.2
+matplotlib==3.8.4       
+
+# Advanced machine learning models
+xgboost==2.0         
+
+# Dimensionality reduction library
+umap-learn==0.5.1         # Uniform Manifold Approximation and Projection for Dimension Reduction
+
+# Custom machine learning repository utility
+ucimlrepo==0.0.6          # A utility to fetch machine learning datasets from the UCI repository (version hypothetical, replace with the correct one if available)
+
+# SSL/TLS certificate handling
+certifi                   # Python package for providing Mozilla's CA Bundle, required for HTTPS requests
